@@ -1,0 +1,14 @@
+{
+  "nome": "SEU NOME",
+  "subtitulo": "Cargo desejado · Segunda área",
+  "localizacao": "Cidade, País · Disponível para trabalho remoto",
+  "email": "voce@example.com",
+  "linkedin": "https://www.linkedin.com/in/exemplo/",
+  "github": "https://github.com/exemplo",
+  "secoes": [
+    {"titulo": "RESUMO PROFISSIONAL", "texto": "Duas ou três frases sobre você. Copie este arquivo para pt.json, en.json e fr.json (fora do git) e preencha."},
+    {"titulo": "EXPERIÊNCIA", "itens": [{"cargo": "Cargo", "empresa": "Empresa", "periodo": "Ano - atual", "pontos": ["Resultado ou responsabilidade"]}]},
+    {"titulo": "FORMAÇÃO", "itens": [{"curso": "Curso", "instituicao": "Instituição", "periodo": "Ano"}]},
+    {"titulo": "IDIOMAS", "texto": "Idioma (nível real)"}
+  ]
+}

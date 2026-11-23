@@ -1,0 +1,39 @@
+{
+  "fonte": "EXEMPLO com um candidato fictício. Copie para dados/dados-formulario.json (que fica fora do git) e preencha com os dados reais.",
+  "nome": "Alex Martin",
+  "data_nascimento": "2000-01-01",
+  "email": "alex.martin@example.com",
+  "telefone": "+00 0000 000 000",
+  "endereco": {
+    "rua": "Rua Exemplo, 123",
+    "codigo_postal": "00000",
+    "cidade": "Cidade",
+    "pais": "País"
+  },
+  "linkedin": "https://www.linkedin.com/in/exemplo/",
+  "github": "https://github.com/exemplo",
+
+  "maior_de_18": true,
+  "nacionalidade": "País de origem",
+  "pais_de_residencia": "País",
+  "autorizacao_trabalho": "Autorizado a trabalhar no país de residência",
+  "precisa_patrocinio_visto": false,
+
+  "idioma_nativo": "Português",
+  "ingles": "Nível real",
+  "outros_idiomas": "Idioma (nível real)",
+  "regra_idiomas": "Declarar sempre os níveis reais acima.",
+
+  "experiencia_atendimento_total": "X anos em ...",
+  "experiencias": ["Cargo (ano - atual)"],
+  "ferramentas": "Listar só ferramentas realmente usadas",
+
+  "disponibilidade": "Até 40 h/semana, horário flexível",
+  "inicio": "Imediato",
+  "situacao_fiscal": "Pessoa física",
+  "salario_pretendido": {"eur_por_hora": 0, "eur_por_ano": 0, "usd_por_hora": 0, "usd_por_ano": 0},
+
+  "equipamento": "Computador, headset, internet estável",
+  "escolaridade": "Sua escolaridade",
+  "diversidade_opcional": "Deixar em branco"
+}

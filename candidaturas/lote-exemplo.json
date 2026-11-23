@@ -1,0 +1,23 @@
+[
+  {
+    "id": "empresa-exemplo-customer-support",
+    "empresa": "Empresa Exemplo",
+    "vaga": "Customer Support Specialist",
+    "link_vaga": "https://job-boards.greenhouse.io/empresa-exemplo/jobs/0000000",
+    "canal": "formulario",
+    "destino": "https://job-boards.greenhouse.io/empresa-exemplo/jobs/0000000",
+    "fonte_do_destino": "Formulário oficial da vaga no Greenhouse",
+    "idioma": "en",
+    "subtitulo": "Customer Support · Portuguese, English and French",
+    "mensagem": "Dear Empresa Exemplo team,\n\nI am applying for the Customer Support Specialist role. (Escreva só com fatos do currículo.)\n\nBest regards,\nAlex Martin",
+    "respostas": {
+      "First Name": "Alex",
+      "Last Name": "Martin",
+      "Email": "alex.martin@example.com",
+      "Resume/CV": "currículo do pacote",
+      "Cover Letter": "mensagem do pacote"
+    },
+    "motivo": "Vaga remota de entrada em suporte; o perfil cobre atendimento e idiomas.",
+    "historico_empresa": "Nenhuma candidatura anterior."
+  }
+]

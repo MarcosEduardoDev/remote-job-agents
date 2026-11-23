@@ -1,0 +1,26 @@
+﻿.venv/
+__pycache__/
+
+# Dados reais do candidato: nunca versionar
+dados/dados-formulario.json
+dados/cofre/
+curriculos/saida/
+planilha/
+candidaturas/pendentes/
+candidaturas/enviadas/
+candidaturas/reprovadas/
+candidaturas/candidato-postula/
+
+# Resultados de buscas
+pesquisa/vagas-brutas*.json
+pesquisa/remotas-candidatas.json
+pesquisa/vagas-candidatas.json
+pesquisa/lista-do-dia.json
+pesquisa/triagem-detalhada.json
+pesquisa/himalayas-destinos.json
+
+# Currículo e mensagens reais: nunca versionar
+curriculos/mestres/
+curriculos/conteudo/*.json
+!curriculos/conteudo/exemplo.json
+candidaturas/modelos.json

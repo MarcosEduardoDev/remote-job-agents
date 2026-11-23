@@ -1,0 +1,832 @@
+{
+ "1password": {
+  "plataforma": "ashby",
+  "slug": "1password",
+  "ativa": false
+ },
+ "360learning": {
+  "plataforma": "lever",
+  "slug": "360learning",
+  "ativa": false
+ },
+ "adyen": {
+  "plataforma": "greenhouse",
+  "slug": "adyen",
+  "ativa": false
+ },
+ "agicap": {
+  "plataforma": "lever",
+  "slug": "agicap",
+  "ativa": false
+ },
+ "Aircall": {
+  "plataforma": "greenhouse",
+  "slug": "aircallioinc",
+  "ativa": false
+ },
+ "airtable": {
+  "plataforma": "greenhouse",
+  "slug": "airtable",
+  "ativa": false
+ },
+ "alan": {
+  "plataforma": "ashby",
+  "slug": "alan",
+  "ativa": false
+ },
+ "algolia": {
+  "plataforma": "greenhouse",
+  "slug": "algolia",
+  "ativa": false
+ },
+ "alma": {
+  "plataforma": "ashby",
+  "slug": "alma",
+  "ativa": false
+ },
+ "Alorica": {
+  "plataforma": "pendente",
+  "url_carreiras": "https://alorica-hire.bling-ai.com/alorica/career",
+  "tipo": "bpo",
+  "motivo": "plataforma bling-ai, ainda sem leitor",
+  "ativa": true
+ },
+ "andela": {
+  "plataforma": "ashby",
+  "slug": "andela",
+  "ativa": false
+ },
+ "ankorstore": {
+  "plataforma": "ashby",
+  "slug": "ankorstore",
+  "ativa": false
+ },
+ "appen": {
+  "plataforma": "smartrecruiters",
+  "slug": "appen",
+  "ativa": false
+ },
+ "Armatis": {
+  "plataforma": "recruitee",
+  "slug": "armatisfrance",
+  "tipo": "bpo",
+  "ativa": true
+ },
+ "Arvato": {
+  "plataforma": "pendente",
+  "url_carreiras": "https://arvato.com/",
+  "tipo": "bpo",
+  "motivo": "site sem link de carreiras encontrado (páginas /careers e jobs. não existem)",
+  "ativa": true
+ },
+ "Automattic": {
+  "plataforma": "greenhouse",
+  "slug": "automatticcareers",
+  "ativa": false
+ },
+ "babbel": {
+  "plataforma": "ashby",
+  "slug": "babbel",
+  "ativa": false
+ },
+ "backmarket": {
+  "plataforma": "ashby",
+  "slug": "backmarket",
+  "ativa": false
+ },
+ "bitpanda": {
+  "plataforma": "greenhouse",
+  "slug": "bitpanda",
+  "ativa": false
+ },
+ "bitwarden": {
+  "plataforma": "greenhouse",
+  "slug": "bitwarden",
+  "ativa": false
+ },
+ "blablacar": {
+  "plataforma": "lever",
+  "slug": "blablacar",
+  "ativa": false
+ },
+ "brevo": {
+  "plataforma": "lever",
+  "slug": "brevo",
+  "ativa": false
+ },
+ "Buffer": {
+  "plataforma": "ashby",
+  "slug": "buffer",
+  "ativa": false
+ },
+ "cabify": {
+  "plataforma": "greenhouse",
+  "slug": "cabify",
+  "ativa": false
+ },
+ "Canonical": {
+  "plataforma": "greenhouse",
+  "slug": "canonical",
+  "ativa": false
+ },
+ "canva": {
+  "plataforma": "smartrecruiters",
+  "slug": "canva",
+  "ativa": false
+ },
+ "clickup": {
+  "plataforma": "ashby",
+  "slug": "clickup",
+  "ativa": false
+ },
+ "close": {
+  "plataforma": "ashby",
+  "slug": "close",
+  "ativa": false
+ },
+ "Comdata": {
+  "plataforma": "pendente",
+  "url_carreiras": "https://www.comdatagroup.com/",
+  "tipo": "bpo",
+  "motivo": "site sem link de carreiras encontrado",
+  "ativa": true
+ },
+ "comet": {
+  "plataforma": "greenhouse",
+  "slug": "comet",
+  "ativa": false
+ },
+ "Concentrix": {
+  "plataforma": "workday",
+  "slug": "cnx.wd1.myworkdayjobs.com|cnx|external_global",
+  "tipo": "bpo",
+  "ativa": true
+ },
+ "contentful": {
+  "plataforma": "greenhouse",
+  "slug": "contentful",
+  "ativa": false
+ },
+ "contentsquare": {
+  "plataforma": "lever",
+  "slug": "contentsquare",
+  "ativa": false
+ },
+ "Covisian": {
+  "plataforma": "pendente",
+  "url_carreiras": "https://www.covisian.com/",
+  "tipo": "bpo",
+  "motivo": "site sem link de carreiras encontrado",
+  "ativa": true
+ },
+ "Cross Border Talents": {
+  "plataforma": "workable",
+  "slug": "crossbordertalents",
+  "ativa": false
+ },
+ "dataiku": {
+  "plataforma": "greenhouse",
+  "slug": "dataiku",
+  "ativa": false
+ },
+ "deepl": {
+  "plataforma": "ashby",
+  "slug": "deepl",
+  "ativa": false
+ },
+ "deliveroo": {
+  "plataforma": "greenhouse",
+  "slug": "deliveroo",
+  "ativa": false
+ },
+ "didomi": {
+  "plataforma": "lever",
+  "slug": "didomi",
+  "ativa": false
+ },
+ "doctolib": {
+  "plataforma": "ashby",
+  "slug": "doctolib",
+  "ativa": false
+ },
+ "ebanx": {
+  "plataforma": "greenhouse",
+  "slug": "ebanx",
+  "ativa": false
+ },
+ "elastic": {
+  "plataforma": "greenhouse",
+  "slug": "elastic",
+  "ativa": false
+ },
+ "elationhealth": {
+  "plataforma": "greenhouse",
+  "slug": "elationhealth",
+  "ativa": false
+ },
+ "Foundever": {
+  "plataforma": "pendente",
+  "url_carreiras": "https://jobs.foundever.com/",
+  "tipo": "bpo",
+  "motivo": "portal próprio montado por JavaScript; leitura simples falha por certificado",
+  "ativa": true
+ },
+ "freshworks": {
+  "plataforma": "smartrecruiters",
+  "slug": "freshworks",
+  "ativa": false
+ },
+ "getyourguide": {
+  "plataforma": "ashby",
+  "slug": "getyourguide",
+  "ativa": false
+ },
+ "ghost": {
+  "plataforma": "greenhouse",
+  "slug": "ghost",
+  "ativa": false
+ },
+ "gitbook": {
+  "plataforma": "ashby",
+  "slug": "gitbook",
+  "ativa": false
+ },
+ "GitLab": {
+  "plataforma": "greenhouse",
+  "slug": "gitlab",
+  "ativa": false
+ },
+ "gorgias": {
+  "plataforma": "ashby",
+  "slug": "gorgias",
+  "ativa": false
+ },
+ "grafanalabs": {
+  "plataforma": "greenhouse",
+  "slug": "grafanalabs",
+  "ativa": true
+ },
+ "heetch": {
+  "plataforma": "lever",
+  "slug": "heetch",
+  "ativa": false
+ },
+ "Help Scout": {
+  "plataforma": "ashby",
+  "slug": "helpscout",
+  "ativa": false
+ },
+ "hostaway": {
+  "plataforma": "recruitee",
+  "slug": "hostaway",
+  "ativa": true
+ },
+ "hostinger": {
+  "plataforma": "ashby",
+  "slug": "hostinger",
+  "ativa": false
+ },
+ "Hotjar": {
+  "plataforma": "lever",
+  "slug": "contentsquare",
+  "ativa": false
+ },
+ "Intelcia": {
+  "plataforma": "pendente",
+  "url_carreiras": "https://careers.intelcia.com/fr-ma/offres-emploi",
+  "tipo": "bpo",
+  "motivo": "portal próprio; vagas listadas sobretudo no Marrocos",
+  "ativa": true
+ },
+ "intercom": {
+  "plataforma": "greenhouse",
+  "slug": "intercom",
+  "ativa": false
+ },
+ "invisible": {
+  "plataforma": "greenhouse",
+  "slug": "invisible",
+  "ativa": false
+ },
+ "Invisible": {
+  "plataforma": "greenhouse_eu",
+  "slug": "invisible",
+  "ativa": false
+ },
+ "invisibletech": {
+  "plataforma": "greenhouse",
+  "slug": "invisibletech",
+  "ativa": false
+ },
+ "jetbrains": {
+  "plataforma": "greenhouse",
+  "slug": "jetbrains",
+  "ativa": false
+ },
+ "jobteaser": {
+  "plataforma": "smartrecruiters",
+  "slug": "jobteaser",
+  "ativa": false
+ },
+ "Keywords Studios": {
+  "plataforma": "pendente",
+  "url_carreiras": "https://www.keywordsstudios.com/en/careers/",
+  "tipo": "games",
+  "motivo": "a conta keywords-studios no Workable não tem vagas publicadas; as vagas da Keywords aparecem pelo portal público do Workable (fonte workable-portal da busca diária)",
+  "ativa": true
+ },
+ "kinsta": {
+  "plataforma": "lever",
+  "slug": "kinsta",
+  "ativa": true
+ },
+ "kit": {
+  "plataforma": "ashby",
+  "slug": "kit",
+  "ativa": false
+ },
+ "Konecta": {
+  "plataforma": "workday",
+  "slug": "konectagroup.wd3.myworkdayjobs.com|konectagroup|Konecta",
+  "tipo": "bpo",
+  "ativa": true
+ },
+ "kraken.com": {
+  "plataforma": "ashby",
+  "slug": "kraken.com",
+  "ativa": false
+ },
+ "labelbox": {
+  "plataforma": "greenhouse",
+  "slug": "labelbox",
+  "ativa": false
+ },
+ "ledger": {
+  "plataforma": "ashby",
+  "slug": "ledger",
+  "ativa": false
+ },
+ "lemlist": {
+  "plataforma": "ashby",
+  "slug": "lemlist",
+  "ativa": false
+ },
+ "linear": {
+  "plataforma": "ashby",
+  "slug": "linear",
+  "ativa": false
+ },
+ "Lionbridge Games": {
+  "plataforma": "pendente",
+  "url_carreiras": "https://careers.lionbridge.com/games",
+  "tipo": "games",
+  "motivo": "portal próprio com busca por departamento, sem leitor",
+  "ativa": true
+ },
+ "livestorm": {
+  "plataforma": "recruitee",
+  "slug": "livestorm",
+  "ativa": false
+ },
+ "lokalise": {
+  "plataforma": "greenhouse",
+  "slug": "lokalise",
+  "ativa": false
+ },
+ "malt": {
+  "plataforma": "lever",
+  "slug": "malt",
+  "ativa": false
+ },
+ "mercor": {
+  "plataforma": "ashby",
+  "slug": "mercor",
+  "ativa": false
+ },
+ "mercury": {
+  "plataforma": "greenhouse",
+  "slug": "mercury",
+  "ativa": false
+ },
+ "mirakl": {
+  "plataforma": "greenhouse",
+  "slug": "mirakl",
+  "ativa": false
+ },
+ "miro": {
+  "plataforma": "ashby",
+  "slug": "miro",
+  "ativa": false
+ },
+ "mollie": {
+  "plataforma": "ashby",
+  "slug": "mollie",
+  "ativa": false
+ },
+ "mozilla": {
+  "plataforma": "greenhouse",
+  "slug": "mozilla",
+  "ativa": true
+ },
+ "n26": {
+  "plataforma": "greenhouse",
+  "slug": "n26",
+  "ativa": false
+ },
+ "netlify": {
+  "plataforma": "greenhouse",
+  "slug": "netlify",
+  "ativa": false
+ },
+ "notion": {
+  "plataforma": "ashby",
+  "slug": "notion",
+  "ativa": false
+ },
+ "nubank": {
+  "plataforma": "ashby",
+  "slug": "nubank",
+  "ativa": false
+ },
+ "paddle": {
+  "plataforma": "ashby",
+  "slug": "paddle",
+  "ativa": false
+ },
+ "pennylane": {
+  "plataforma": "ashby",
+  "slug": "pennylane",
+  "ativa": false
+ },
+ "phrase": {
+  "plataforma": "ashby",
+  "slug": "phrase",
+  "ativa": false
+ },
+ "pigment": {
+  "plataforma": "lever",
+  "slug": "pigment",
+  "ativa": false
+ },
+ "pleo": {
+  "plataforma": "ashby",
+  "slug": "pleo",
+  "ativa": false
+ },
+ "Pole To Win (side.inc)": {
+  "plataforma": "workable",
+  "slug": "sideinc",
+  "tipo": "games",
+  "ativa": true
+ },
+ "posthog": {
+  "plataforma": "ashby",
+  "slug": "posthog",
+  "ativa": true
+ },
+ "prolific": {
+  "plataforma": "greenhouse",
+  "slug": "prolific",
+  "ativa": false
+ },
+ "proton": {
+  "plataforma": "greenhouse",
+  "slug": "proton",
+  "ativa": false
+ },
+ "qonto": {
+  "plataforma": "ashby",
+  "slug": "qonto",
+  "ativa": false
+ },
+ "render": {
+  "plataforma": "ashby",
+  "slug": "render",
+  "ativa": false
+ },
+ "rws": {
+  "plataforma": "lever",
+  "slug": "rws",
+  "ativa": false
+ },
+ "scaleai": {
+  "plataforma": "greenhouse",
+  "slug": "scaleai",
+  "ativa": false
+ },
+ "sentry": {
+  "plataforma": "ashby",
+  "slug": "sentry",
+  "ativa": false
+ },
+ "sezzle": {
+  "plataforma": "greenhouse",
+  "slug": "sezzle",
+  "ativa": false
+ },
+ "smartling": {
+  "plataforma": "greenhouse",
+  "slug": "smartling",
+  "ativa": false
+ },
+ "stockx": {
+  "plataforma": "greenhouse",
+  "slug": "stockx",
+  "ativa": false
+ },
+ "sumup": {
+  "plataforma": "greenhouse",
+  "slug": "sumup",
+  "ativa": false
+ },
+ "sunday": {
+  "plataforma": "ashby",
+  "slug": "sunday",
+  "ativa": false
+ },
+ "supabase": {
+  "plataforma": "ashby",
+  "slug": "supabase",
+  "ativa": false
+ },
+ "SupportYourApp": {
+  "plataforma": "workable",
+  "slug": "supportyourapp",
+  "ativa": false
+ },
+ "swan": {
+  "plataforma": "ashby",
+  "slug": "swan",
+  "ativa": false
+ },
+ "swile": {
+  "plataforma": "lever",
+  "slug": "swile",
+  "ativa": false
+ },
+ "tailscale": {
+  "plataforma": "greenhouse",
+  "slug": "tailscale",
+  "ativa": false
+ },
+ "TaskUs": {
+  "plataforma": "pendente",
+  "url_carreiras": "https://www.taskus.com/careers/",
+  "tipo": "bpo",
+  "motivo": "portal próprio montado por JavaScript, sem plataforma conhecida detectada",
+  "ativa": true
+ },
+ "Teleperformance": {
+  "plataforma": "pendente",
+  "url_carreiras": "https://www.tp.com/en-us/careers/job-opportunities/",
+  "tipo": "bpo",
+  "motivo": "portal próprio montado por JavaScript, sem plataforma conhecida detectada",
+  "ativa": true
+ },
+ "TELUS Digital": {
+  "plataforma": "pendente",
+  "url_carreiras": "https://jobs.telusdigital.com/",
+  "tipo": "bpo",
+  "motivo": "portal próprio; responde 403 a acesso automatizado",
+  "ativa": true
+ },
+ "tide": {
+  "plataforma": "greenhouse",
+  "slug": "tide",
+  "ativa": false
+ },
+ "toloka": {
+  "plataforma": "greenhouse",
+  "slug": "toloka",
+  "ativa": false
+ },
+ "toptal": {
+  "plataforma": "lever",
+  "slug": "toptal",
+  "ativa": false
+ },
+ "Toptal": {
+  "plataforma": "lever",
+  "slug": "toptal",
+  "ativa": false
+ },
+ "TP/Majorel": {
+  "plataforma": "pendente",
+  "url_carreiras": "https://www.tp.com/en-us/careers/job-opportunities/",
+  "tipo": "bpo",
+  "motivo": "jobs.majorel.com redireciona para o portal da Teleperformance (mesmo motivo)",
+  "ativa": true
+ },
+ "Transcom": {
+  "plataforma": "pendente",
+  "url_carreiras": "https://careers.transcom.com/",
+  "tipo": "bpo",
+  "motivo": "Avature (transcom.avature.net): ainda sem leitor",
+  "ativa": true
+ },
+ "turing": {
+  "plataforma": "greenhouse",
+  "slug": "turing",
+  "ativa": false
+ },
+ "typeform": {
+  "plataforma": "greenhouse",
+  "slug": "typeform",
+  "ativa": false
+ },
+ "vercel": {
+  "plataforma": "greenhouse",
+  "slug": "vercel",
+  "ativa": false
+ },
+ "veriff": {
+  "plataforma": "greenhouse",
+  "slug": "veriff",
+  "ativa": false
+ },
+ "vtex": {
+  "plataforma": "greenhouse",
+  "slug": "vtex",
+  "ativa": false
+ },
+ "WeLearn": {
+  "plataforma": "greenhouse",
+  "slug": "welearn",
+  "ativa": false
+ },
+ "wikimedia": {
+  "plataforma": "greenhouse",
+  "slug": "wikimedia",
+  "ativa": false
+ },
+ "Zapier": {
+  "plataforma": "ashby",
+  "slug": "zapier",
+  "ativa": false
+ },
+ "zenchef": {
+  "plataforma": "recruitee",
+  "slug": "zenchef",
+  "ativa": false
+ },
+ "ICEYE": {
+  "plataforma": "ashby",
+  "slug": "iceye",
+  "ativa": true
+ },
+ "ElevenLabs": {
+  "plataforma": "ashby",
+  "slug": "ElevenLabs",
+  "ativa": true
+ },
+ "Ashby": {
+  "plataforma": "ashby",
+  "slug": "ashby",
+  "ativa": false
+ },
+ "Zenchef": {
+  "plataforma": "recruitee",
+  "slug": "zenchef",
+  "ativa": false
+ },
+ "Appen": {
+  "plataforma": "smartrecruiters",
+  "slug": "Appen",
+  "ativa": false
+ },
+ "JobTeaser": {
+  "plataforma": "smartrecruiters",
+  "slug": "JobTeaser",
+  "ativa": false
+ },
+ "Freshworks": {
+  "plataforma": "smartrecruiters",
+  "slug": "Freshworks",
+  "ativa": false
+ },
+ "Canva": {
+  "plataforma": "smartrecruiters",
+  "slug": "Canva",
+  "ativa": false
+ },
+ "remotepeople (greenhouse)": {
+  "plataforma": "greenhouse",
+  "slug": "remotepeople",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "growetalents (greenhouse)": {
+  "plataforma": "greenhouse",
+  "slug": "growetalents",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "monzo (greenhouse)": {
+  "plataforma": "greenhouse",
+  "slug": "monzo",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "trustpilot (greenhouse)": {
+  "plataforma": "greenhouse",
+  "slug": "trustpilot",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "dashlane (greenhouse)": {
+  "plataforma": "greenhouse",
+  "slug": "dashlane",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "datadog (greenhouse)": {
+  "plataforma": "greenhouse",
+  "slug": "datadog",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "discord (greenhouse)": {
+  "plataforma": "greenhouse",
+  "slug": "discord",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "twitch (greenhouse)": {
+  "plataforma": "greenhouse",
+  "slug": "twitch",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "riotgames (greenhouse)": {
+  "plataforma": "greenhouse",
+  "slug": "riotgames",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "epicgames (greenhouse)": {
+  "plataforma": "greenhouse",
+  "slug": "epicgames",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "remote (greenhouse)": {
+  "plataforma": "greenhouse",
+  "slug": "remote",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "duolingo (greenhouse)": {
+  "plataforma": "greenhouse",
+  "slug": "duolingo",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "superside (lever)": {
+  "plataforma": "lever",
+  "slug": "superside",
+  "origem": "sondagem 2026-11-23",
+  "ativa": true
+ },
+ "ramp (ashby)": {
+  "plataforma": "ashby",
+  "slug": "ramp",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "preply (ashby)": {
+  "plataforma": "ashby",
+  "slug": "preply",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "synthesia (ashby)": {
+  "plataforma": "ashby",
+  "slug": "synthesia",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "photoroom (ashby)": {
+  "plataforma": "ashby",
+  "slug": "photoroom",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "dust (ashby)": {
+  "plataforma": "ashby",
+  "slug": "dust",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "gladia (ashby)": {
+  "plataforma": "ashby",
+  "slug": "gladia",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ },
+ "Gameloft (smartrecruiters)": {
+  "plataforma": "smartrecruiters",
+  "slug": "Gameloft",
+  "origem": "sondagem 2026-11-23",
+  "ativa": false
+ }
+}

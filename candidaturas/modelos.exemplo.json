@@ -1,0 +1,6 @@
+{
+  "_leia": "Modelos de mensagem por categoria e idioma. Copie para modelos.json (fora do git) e escreva os seus, só com fatos do seu currículo.",
+  "atendimento": {
+    "en": {"mensagem": "Dear {empresa} team,\n\nI am applying for the {vaga} position at {empresa}.\n\n[Two or three true sentences from your CV.]{frase_vaga}\n\nMy CV is attached. Thank you for your consideration.\n\nKind regards,\n[Your name]"}
+  }
+}
